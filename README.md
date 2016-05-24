@@ -17,4 +17,4 @@ There is [Laravel package](https://github.com/DeSmart/laravel-event-sourcing) th
 using this set of interfaces and traits.
 
 ## License
-Package is released under the MIT License (MIT). Please, check [LICENSE][] for more details.
+Package is released under the MIT License (MIT). Please, check [LICENSE](https://github.com/desmart/event-sourcing/blob/master/LICENSE) for more details.
